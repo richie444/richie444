@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @richard Nthiwa
+- 👀 I’m interested in ...codind and solving problems using my skills in coding
+- 🌱 I’m currently learning Bachelors of science in Business Computing
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
