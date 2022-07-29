@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Richard Nthiwa</h1>
 <h3 align="center">A passionate web app,Blockchain & smart contract developer from kenya</h3>
-<img align="center" alt="coding" src="https://ak.picdn.net/shutterstock/videos/11032802/preview/stock-footage--k-blue-digital-coding-animation-seamless-loop.webm" width="300">
+<img align="center" alt="coding" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" width="300">
 
 <p align="left"> <a href="https://twitter.com/richard_nthiwa" target="blank"><img src="https://img.shields.io/twitter/follow/richard_nthiwa?logo=twitter&style=for-the-badge" alt="richard_nthiwa" /></a> </p>
 
