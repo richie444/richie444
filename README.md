@@ -1,7 +1,7 @@
 <img width="23">[![MasterHead](https://img.freepik.com/premium-vector/golden-bitcoin-blockchain-technology-3d-concept-suitable-future-technology-banner-cover_384372-81.jpg?w=2000)](https://richardnthiwa.vercel.app)</img>
 <h1 align="center">Hi 👋, I'm Richard Nthiwa</h1>
 <h3 align="center">A passionate web app,Blockchain & smart contract developer from kenya</h3>
-<img align="right" alt="coding" src="https://rubygarage.s3.amazonaws.com/uploads/article_image/file/1087/fraudless-blockchain.gif" width="300" length="700" height="200">
+
 
 <p align="left"> <a href="https://twitter.com/richard_nthiwa" target="blank"><img src="https://img.shields.io/twitter/follow/richard_nthiwa?logo=twitter&style=for-the-badge" alt="richard_nthiwa" /></a> </p>
 
