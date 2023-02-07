@@ -1,4 +1,4 @@
-<img width="23">[![MasterHead](https://img.freepik.com/premium-vector/golden-bitcoin-blockchain-technology-3d-concept-suitable-future-technology-banner-cover_384372-81.jpg?w=2000)](https://richardnthiwa.vercel.app)</img>
+
 <h1 align="center">Hi 👋, I'm Richard Nthiwa</h1>
 <h3 align="center">A passionate web app,Blockchain & smart contract developer from kenya</h3>
 
