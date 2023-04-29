@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Richard Nthiwa</h1>
-<h3 align="center">A passionate web app,Blockchain & smart contract developer from kenya</h3>
+<h3 align="center">A passionate web app,Blockchain & smart contract developer</h3>
 
 
 <p align="left"> <a href="https://twitter.com/richard_nthiwa" target="blank"><img src="https://img.shields.io/twitter/follow/richard_nthiwa?logo=twitter&style=for-the-badge" alt="richard_nthiwa" /></a> </p>
@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://richardnthiwa.vercel.app/](https://richardnthiwa.vercel.app/)
 
-- 💬 Ask me about **solidity,javascript and React**
+- 💬 Ask me about **solidity,javascript and React typescript**
 
 - 📫 How to reach me **richardnthiwa5@gmail.com**
 
-- ⚡ Fun fact **I think I am cool**
+- ⚡ Fun fact **Code change Lives**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
