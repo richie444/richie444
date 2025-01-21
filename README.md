@@ -7,7 +7,7 @@ Here’s the updated version of your GitHub README with a stronger focus on your
 
 <p align="center">  
   <a href="https://twitter.com/richard_nthiwa" target="blank"><img src="https://img.shields.io/twitter/follow/richard_nthiwa?logo=twitter&style=for-the-badge" alt="richard_nthiwa" /></a>  
-  <a href="https://linkedin.com/in/richard-nthiwa" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>  
+  <a href="https://linkedin.com/in/richard-nthiwa-4a7741217" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>  
   <a href="https://richardnthiwa.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" alt="Portfolio" /></a>  
 </p>  
 
