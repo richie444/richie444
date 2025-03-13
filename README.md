@@ -1,4 +1,4 @@
-Here’s the updated version of your GitHub README with a stronger focus on your full-stack expertise using **Next.js, React, Node.js, Tailwind CSS, and Python**, while including your Blockchain skills:
+Here’s the updated version of your GitHub README with a stronger focus on your full-stack expertise using **Next.js, React, Node.js, Flutter, Tailwind CSS, and Python**, while including your Blockchain skills:
 
 ---
 
