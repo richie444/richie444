@@ -31,7 +31,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-JAVA
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 
 #### **Backend Development**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
@@ -51,6 +51,14 @@ JAVA
 
 ---
 
+GitHub Stats & Analytics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richie444&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richie444&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
 ### 🌐 Connect With Me  
 <p align="left">  
   <a href="https://twitter.com/richard_nthiwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richard_nthiwa" height="30" width="40" /></a>  
@@ -63,5 +71,3 @@ JAVA
 
 
 ---
-
-This README highlights your strengths in **full-stack development**, while keeping Blockchain and Python in focus. Let me know if you'd like further refinements!
