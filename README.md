@@ -1,4 +1,4 @@
-Here’s the updated version of your GitHub README with a stronger focus on your full-stack expertise using **Java, Next.js, React, Node.js, Flutter, Tailwind CSS, and Python**, while including your Blockchain skills:
+
 
 ---
 
@@ -47,6 +47,7 @@ Here’s the updated version of your GitHub README with a stronger focus on your
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+JAVA
 
 ---
 
