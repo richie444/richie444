@@ -1,26 +1,25 @@
+<h1 align="center">Hi 👋, I'm Richard Nthiwa</h1>
+<h3 align="center">A Passionate Full-Stack Developer Specializing in Modern Web Technologies and Blockchain Solutions</h3>
 
-
----
-
-<h1 align="center">Hi 👋, I'm Richard Nthiwa</h1>  
-<h3 align="center">A Passionate Full-Stack Developer Specializing in Modern Web Technologies and Blockchain Solutions</h3>  
-
-<p align="center">  
-  <a href="https://twitter.com/richard_nthiwa" target="blank"><img src="https://img.shields.io/twitter/follow/richard_nthiwa?logo=twitter&style=for-the-badge" alt="richard_nthiwa" /></a>  
-  <a href="https://linkedin.com/in/richard-nthiwa-4a7741217" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>  
-  <a href="https://richardnthiwa.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" alt="Portfolio" /></a>  
-</p>  
+<p align="center">
+  <a href="https://twitter.com/richard_nthiwa" target="_blank"><img src="https://img.shields.io/twitter/follow/richard_nthiwa?logo=twitter&style=for-the-badge" alt="richard_nthiwa" /></a>
+  <a href="https://linkedin.com/in/richard-nthiwa-4a7741217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://richardnthiwa.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" alt="Portfolio" /></a>
+</p>
 
 ---
 
-### 🌟 About Me  
-- 🔭 **Currently Working On:** Scalable full-stack web applications using **Next.js, React, Node.js**, and **Tailwind CSS**, with Blockchain integrations.  
-- 🌱 **Learning:** Advanced **Next.js features**, improving **API performance** with Node.js, and exploring **AI-driven solutions** using **Python**.  
-- 👯 **Looking to Collaborate On:** Full-stack projects, decentralized applications (DApps), and Blockchain-based solutions.  
-- 🤝 **Open To Help With:** Building responsive UIs, optimizing backends, and integrating smart contracts with modern web apps.  
-- 💬 **Ask Me About:** Next.js, React, Tailwind CSS, Python, Node.js, and Solidity.  
-- 📫 **Reach Me At:** richardnthiwa5@gmail.com  
-- ⚡ **Fun Fact:** I believe *coding bridges ideas into reality!*  
+### 🌟 About Me
+
+| **Focus** | **Details** |
+|-----------|-------------|
+| 🔭 **Currently Working On** | Scalable full-stack web applications using **Next.js, React, Node.js, Java**, and **Tailwind CSS**, with Blockchain integrations. |
+| 🌱 **Learning** | - Advanced **Next.js features**<br>- Improving **API performance** with Node.js<br>- Exploring **AI-driven solutions** using Python |
+| 👯 **Looking to Collaborate On** | Full-stack projects, decentralized applications (**DApps**), and Blockchain-based solutions. |
+| 🤝 **Open to Help With** | Building responsive UIs, optimizing backends, and integrating smart contracts with modern web apps. |
+| 💬 **Ask Me About** | **Next.js, React, Tailwind CSS, Python, Node.js, Solidity** |
+| 📫 **Reach Me At** | [richardnthiwa5@gmail.com](mailto:richardnthiwa5@gmail.com) |
+| ⚡ **Fun Fact** | I believe *coding bridges ideas into reality!* |
 
 ---
 
